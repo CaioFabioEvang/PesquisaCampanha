@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Campanhas</title>
+  <style>
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js"></script>
+</head>
+<body>
+<header>
+  <h1>CRM - Campanhas</h1>
+  <label for="campanhaSelect" style="font-weight: bold;">Selecione a campanha:</label>
+  <select id="campanhaSelect" onchange="mostrarDados()">
+    <option id="optionCampaign" style="font-weight: bold;"> -- Escolha Campanha -- </option>
+    <option id="naoUsar">Campanhas Semana - 29/01 a 04/02</option>
+    <option value="campanha1">E-mail TQV 30012024</option>
+    <option value="campanha2">68750 - Email - Volta as Aulas - Dia da Saudade Publico 1 30012024</option>
+    <option value="campanha3">68751 - Email - Volta as Aulas - Dia da Saudade Publico 2 30012024</option>
+    <option value="campanha4">68821 - Custom Audience - TRADE MKT Hoegaarden SP 01022024</option>
+    <option value="campanha5">68822 - Custom Audience - TRADE MKT Agua Tonica PR MS 01022024</option>
+    <option value="campanha6">68823 - Custom Audience - TRADE MKT Agua Tonica SP 01022024</option>
+    <option value="campanha7">68783 - Email - Encarte Carnaval Churrasco com a Galera Publico 1 02022024</option>
+    <option value="campanha8">68784 - Email - Encarte Carnaval Churrasco com a Galera Publico 2 02022024</option>
+    <option value="campanha9">68785 - SMS - Encarte Carnaval Churrasco com a Galera Publico 1 PR 02022024</option>
+    <option value="campanha10">68786 - SMS - Encarte Carnaval Churrasco com a Galera Publico 1 MS 02022024</option>
+    <option value="campanha11">68787 - SMS - Encarte Carnaval Churrasco com a Galera Publico 1 SP 02022024</option>
+    <option value="campanha12">68788 - SMS - Encarte Carnaval Churrasco com a Galera Publico 2 PR 02022024</option>
+    <option value="campanha13">68789 - SMS - Encarte Carnaval Churrasco com a Galera Publico 2 SP 02022024</option>
+    <option value="campanha14">68790 - SMS - Encarte Carnaval Churrasco com a Galera Publico 2 MS 02022024</option>
+    <option value="campanha15">68791 - SMS - Oferta Relampago Bebida Lactea e Biscoito 01022024</option>
+    <option value="campanha16">68792 - Email - Festival Bebidas Hidrate se na Folia Publico 1 02022024</option>
+    <option value="campanha17">68793 - Email - Festival Bebidas Hidrate se na Folia Publico 2 02022024</option>
+    <option value="campanha19">68794 - SMS - Festival Bebidas Hidrate se na Folia Publico 1 PR 02022024</option>
+    <option value="campanha18">68795 - SMS - Festival Bebidas Hidrate se na Folia Publico 1 MS 02022024</option>
+    <option value="campanha20">68796 - SMS - Festival Bebidas Hidrate se na Folia Publico 1 SP 02022024</option>
+    <option value="campanha21">68798 - SMS - Festival Bebidas Hidrate se na Folia Publico 2 PR 02022024</option>
+    <option value="campanha22">68799 - SMS - Festival Bebidas Hidrate se na Folia Publico 2 SP 02022024</option>
+    <option value="campanha23">68800 - SMS - Festival Bebidas Hidrate se na Folia Publico 2 MS 02022024</option>
+    <option value="campanha24">68832 - Email - Sabadao Amigao Publico 1 03022024</option>
+    <option value="campanha25">68833 - Email - Sabadao Amigao Publico 2 03022024</option>
+    <option value="campanha26">68834 - SMS - Sabadao Amigao Publico 1 PR 03022024</option>
+    <option value="campanha27">68835 - SMS - Sabadao Amigao Publico 1 SP 03022024</option>
+    <option value="campanha28">68839 - SMS - Sabadao Amigao Publico 2 PR 03022024</option>
+    <option value="campanha29">68840 - SMS - Sabadao Amigao Publico 2 SP 03022024</option>
+    <option value="campanha30">68841 - SMS - Sabadao Amigao Publico 2 MS 03022024</option>
+    <option value="campanha31">68844 - Email - TRADE MKT AMBEV - CORONA LONG NECK PR MS 03022024</option>
+    <option value="campanha32">68845 - Email - TRADE MKT AMBEV - CORONA LONG NECK SP 03022024</option>    
+    <!-- Adicione mais opções conforme necessário -->
+  </select>
+</header>
+<main>  
+  <div id="conteiner">
+    <div id="conteiner__info">
+      <div id="campanhaNome">
+        <h2></h2>
+      </div>
+
+      <div id="campanhaFiltro">
+        <p></p>
+      </div>
+
+      <div id="campanhaPublicoAbordado">
+        <p></p>
+      </div>
+
+      <div id="campanhaPublicoGrupoControle">
+        <p></p>
+      </div>
+
+      <div id="campanhaMensuracao">
+        <p></p>
+      </div>
+      
+    </div>
+
+    <div id="conteiner__produtos">
+      <div id="campanhaProdutosMensuracao">
+        <p></p>
+      </div>  
+    </div>  
+</div>
+<div>
+  <button id="downloadButton" onclick="exportarParaExcel()">Download Excel</button>
+</div>
+</main>
+
+<script src="index.js"></script>
+
+</body>
+</html>
