@@ -1,14 +1,30 @@
 body{
   font-family: Calibri, sans-serif;
-  margin: none;
+  margin: 0px;
+  background-color: black;
+
+}
+main{
+  background-color: #161313;
 }
 
 header{
+  padding: 0 0 20px 0;
+}
+
+#conteiner__image{
+  width: 100px;
   
 }
 
-h1{
-  font-size: 22px;
+
+
+#conteiner__text{
+  display: flex;
+  justify-content: space-between;
+  font-size: 8px;
+  margin: 5px;
+  padding: 2px;
 }
 
 #conteiner{
@@ -18,11 +34,14 @@ h1{
 
 #conteiner__info{
   padding: 0 30px 0 0;
+  color: #ffffff;
 }
 
 #conteiner__produtos{
   padding: 0 55px;
+  color: #ffffff;
 }
+
 
 #optionCampaign{
 text-align: center;
@@ -34,37 +53,13 @@ font-weight: bold;
   font-weight: bold;
 
 }
-/* Adicione estilos CSS conforme necessário */
-#campanhaNome h2 {
-  /* Seus estilos para o título da campanha */
-}
-
-#campanhaFiltro p {
-  
-}
-
-#campanhaPublicoAbordado p {
-  
-}
-
-#campanhaPublicoGrupoControle p {
-  /* Seus estilos para o grupo de controle da campanha */
-}
-
-#campanhaProdutosMensuracao p {
-  font-size: 16px;
-}
-
-#campanhaMensuracao p {
-  /* Seus estilos para a mensuração da campanha */
-}
 
 #downloadButton {
   /* Seus estilos para o botão de download */
   display: block;
-  margin-top: 20px;
+  margin: 20px;
   cursor: pointer;
-  padding: 10px;
+  padding: 9px;
   background-color: #4CAF50;
   color: white;
   border: none;
