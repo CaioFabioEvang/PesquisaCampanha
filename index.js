@@ -255,6 +255,102 @@ const dadosCampanhas = {
       produtos: "2864851 - Cerveja Corona 330ml Long Neck",
       mensuracao: "0 dia"
     },
+    campanha33: {
+      nome: "68853 - Email - Abastecimento Exclusivo Vitrine 1 Publico 1 05022024",
+      filtro: "Clientes todas filiais com filtro IdCsdmfilialpreferencial, Clientes do ciclo de Ativaçã e Rentabilização - CLV A e B, Clientes sem venda entre período de 30 a 15 dias.",
+      abordado: 128853,
+      grupoControle: 8910,
+      produtos: "601810-Acucar Cristal Alto Alegre 2kg,105570-Acucar Refinado Uniao 1kg,1612930-Agua Min Cristal Select 500ml S/Gas,4413865-Arroz Minueto 5kg Ft Verde,365670-Azeite Andorinha 500ml Extra Virgem Vidro,997765-Bebida Energetica Red Bull 355ml,2866013-Bebida Energetica Red Bull 355ml Sugar Free,2864851-Cerveja Corona 330ml  Extra Long Neck,3993035-Cerveja Spaten 350ml Munich Puro Malte Lata,2771322-Extrato Tomate Elefante 275g Tp,4416422-Não Encontrado,4410980-Feijao Carioca Vo Geralda 1kg Comum,777854-Leite Uht Frimesa 1l Zero Lactose,4343875-Mac Magni 500g Semola Espaguete,4343859-Mac Magni 500g Semola Parafuso,4343867-Mac Magni 500g Semola Penne,2930340-Mac Nissin 75g Caldinho Feijao,2930439-Mac Nissin 75g Canja Galinha,816370-Mac Nissin 80g Hot Calabresa,2947048-Mac Nissin 80g Lamen Carne Desfiada C/Pim,136077-Mac Nissin 85g Bacon,2875659-Mac Nissin 85g Camarao C/ Alho,133043-Mac Nissin 85g Carne,578860-Mac Nissin 85g Carne C/Tomate,4077695-Mac Nissin 85g Chico Bento Milho Na Manteiga,2813017-Mac Nissin 85g Costela,102369-Mac Nissin 85g Gal Caipira,4415221-Mac Nissin 85g Gal Caipira C/6 L+p-,4417399-Não Encontrado,102350-Mac Nissin 85g Galinha,102393-Mac Nissin 85g Monica Carne,102440-Mac Nissin 85g Monica Galinha,102407-Mac Nissin 85g Monica Tomate,2724421-Mac Nissin 85g Sabor Fgo Assado C/Limao,775304-Mac Nissin 87g Yakissoba Trad,525200-Mac Nissin 88g Crem Frango,444715-Mac Nissin 88g Crem Picanha,2857790-Mac Nissin 88g Cremoso Molho De Queijo,771406-Mac Renata 500g Ovos Sem Ave Maria,215775-Mac Renata 500g Ovos Sem Espag 8,2368155-Mac Renata 500g Ovos Sem Fidelinho 10,512168-Mac Renata 500g Ovos Sem Furadinho 5,998052-Mac Renata 500g Ovos Sem Linguine,219037-Mac Renata 500g Ovos Sem Padre Nosso,215783-Mac Renata 500g Ovos Sem Parafuso,389420-Mac Renata 500g Ovos Sem Pena,3933881-Maionese Hellmann's 800g Doypack Sachet,2104334-Molho Tom Heinz 300g Sache Tradicional,3995119-Oleo Algodao Liza 900ml",
+      mensuracao: "6 dias"
+    },
+    campanha34: {
+      nome: "68854 - Email - Abastecimento Exclusivo Vitrine 1 Publico 2 05022024",
+      filtro: "Clientes todas filiais com filtro IdCsdmfilialpreferencial, Clientes do ciclo de Retenção com CLV A e B",
+      abordado: 20926,
+      grupoControle: 6583,
+      produtos: "601810-Acucar Cristal Alto Alegre 2kg,105570-Acucar Refinado Uniao 1kg,1612930-Agua Min Cristal Select 500ml S/Gas,4413865-Arroz Minueto 5kg Ft Verde,365670-Azeite Andorinha 500ml Extra Virgem Vidro,997765-Bebida Energetica Red Bull 355ml,2866013-Bebida Energetica Red Bull 355ml Sugar Free,2864851-Cerveja Corona 330ml  Extra Long Neck,3993035-Cerveja Spaten 350ml Munich Puro Malte Lata,2771322-Extrato Tomate Elefante 275g Tp,4416422-Não Encontrado,4410980-Feijao Carioca Vo Geralda 1kg Comum,777854-Leite Uht Frimesa 1l Zero Lactose,4343875-Mac Magni 500g Semola Espaguete,4343859-Mac Magni 500g Semola Parafuso,4343867-Mac Magni 500g Semola Penne,2930340-Mac Nissin 75g Caldinho Feijao,2930439-Mac Nissin 75g Canja Galinha,816370-Mac Nissin 80g Hot Calabresa,2947048-Mac Nissin 80g Lamen Carne Desfiada C/Pim,136077-Mac Nissin 85g Bacon,2875659-Mac Nissin 85g Camarao C/ Alho,133043-Mac Nissin 85g Carne,578860-Mac Nissin 85g Carne C/Tomate,4077695-Mac Nissin 85g Chico Bento Milho Na Manteiga,2813017-Mac Nissin 85g Costela,102369-Mac Nissin 85g Gal Caipira,4415221-Mac Nissin 85g Gal Caipira C/6 L+p-,4417399-Não Encontrado,102350-Mac Nissin 85g Galinha,102393-Mac Nissin 85g Monica Carne,102440-Mac Nissin 85g Monica Galinha,102407-Mac Nissin 85g Monica Tomate,2724421-Mac Nissin 85g Sabor Fgo Assado C/Limao,775304-Mac Nissin 87g Yakissoba Trad,525200-Mac Nissin 88g Crem Frango,444715-Mac Nissin 88g Crem Picanha,2857790-Mac Nissin 88g Cremoso Molho De Queijo,771406-Mac Renata 500g Ovos Sem Ave Maria,215775-Mac Renata 500g Ovos Sem Espag 8,2368155-Mac Renata 500g Ovos Sem Fidelinho 10,512168-Mac Renata 500g Ovos Sem Furadinho 5,998052-Mac Renata 500g Ovos Sem Linguine,219037-Mac Renata 500g Ovos Sem Padre Nosso,215783-Mac Renata 500g Ovos Sem Parafuso,389420-Mac Renata 500g Ovos Sem Pena,3933881-Maionese Hellmann's 800g Doypack Sachet,2104334-Molho Tom Heinz 300g Sache Tradicional,3995119-Oleo Algodao Liza 900ml",
+      mensuracao: "6 dias"
+    },
+    campanha35: {
+      nome: "68855 - SMS - Abastecimento Exclusivo Vitrine 1 Publico 1 05022024",
+      filtro: "Clientes todas filiais com filtro IdCsdmfilialpreferencial, Clientes do ciclo de Ativaçã e Rentabilização - CLV A e B, Clientes sem venda entre período de 30 a 15 dias.",
+      abordado: 30000,
+      grupoControle: 7276,
+      produtos: "601810-Acucar Cristal Alto Alegre 2kg,105570-Acucar Refinado Uniao 1kg,1612930-Agua Min Cristal Select 500ml S/Gas,4413865-Arroz Minueto 5kg Ft Verde,365670-Azeite Andorinha 500ml Extra Virgem Vidro,997765-Bebida Energetica Red Bull 355ml,2866013-Bebida Energetica Red Bull 355ml Sugar Free,2864851-Cerveja Corona 330ml  Extra Long Neck,3993035-Cerveja Spaten 350ml Munich Puro Malte Lata,2771322-Extrato Tomate Elefante 275g Tp,4416422-Não Encontrado,4410980-Feijao Carioca Vo Geralda 1kg Comum,777854-Leite Uht Frimesa 1l Zero Lactose,4343875-Mac Magni 500g Semola Espaguete,4343859-Mac Magni 500g Semola Parafuso,4343867-Mac Magni 500g Semola Penne,2930340-Mac Nissin 75g Caldinho Feijao,2930439-Mac Nissin 75g Canja Galinha,816370-Mac Nissin 80g Hot Calabresa,2947048-Mac Nissin 80g Lamen Carne Desfiada C/Pim,136077-Mac Nissin 85g Bacon,2875659-Mac Nissin 85g Camarao C/ Alho,133043-Mac Nissin 85g Carne,578860-Mac Nissin 85g Carne C/Tomate,4077695-Mac Nissin 85g Chico Bento Milho Na Manteiga,2813017-Mac Nissin 85g Costela,102369-Mac Nissin 85g Gal Caipira,4415221-Mac Nissin 85g Gal Caipira C/6 L+p-,4417399-Não Encontrado,102350-Mac Nissin 85g Galinha,102393-Mac Nissin 85g Monica Carne,102440-Mac Nissin 85g Monica Galinha,102407-Mac Nissin 85g Monica Tomate,2724421-Mac Nissin 85g Sabor Fgo Assado C/Limao,775304-Mac Nissin 87g Yakissoba Trad,525200-Mac Nissin 88g Crem Frango,444715-Mac Nissin 88g Crem Picanha,2857790-Mac Nissin 88g Cremoso Molho De Queijo,771406-Mac Renata 500g Ovos Sem Ave Maria,215775-Mac Renata 500g Ovos Sem Espag 8,2368155-Mac Renata 500g Ovos Sem Fidelinho 10,512168-Mac Renata 500g Ovos Sem Furadinho 5,998052-Mac Renata 500g Ovos Sem Linguine,219037-Mac Renata 500g Ovos Sem Padre Nosso,215783-Mac Renata 500g Ovos Sem Parafuso,389420-Mac Renata 500g Ovos Sem Pena,3933881-Maionese Hellmann's 800g Doypack Sachet,2104334-Molho Tom Heinz 300g Sache Tradicional,3995119-Oleo Algodao Liza 900ml",
+      mensuracao: "6 dias"
+    },
+    campanha36: {
+      nome: "68856 - SMS - Abastecimento Exclusivo Vitrine 1 Publico 2 05022024",
+      filtro: "Clientes todas filiais com filtro IdCsdmfilialpreferencial, Clientes do ciclo de Retenção com CLV A e B",
+      abordado: 10221,
+      grupoControle: 6083,
+      produtos: "601810-Acucar Cristal Alto Alegre 2kg,105570-Acucar Refinado Uniao 1kg,1612930-Agua Min Cristal Select 500ml S/Gas,4413865-Arroz Minueto 5kg Ft Verde,365670-Azeite Andorinha 500ml Extra Virgem Vidro,997765-Bebida Energetica Red Bull 355ml,2866013-Bebida Energetica Red Bull 355ml Sugar Free,2864851-Cerveja Corona 330ml  Extra Long Neck,3993035-Cerveja Spaten 350ml Munich Puro Malte Lata,2771322-Extrato Tomate Elefante 275g Tp,4416422-Não Encontrado,4410980-Feijao Carioca Vo Geralda 1kg Comum,777854-Leite Uht Frimesa 1l Zero Lactose,4343875-Mac Magni 500g Semola Espaguete,4343859-Mac Magni 500g Semola Parafuso,4343867-Mac Magni 500g Semola Penne,2930340-Mac Nissin 75g Caldinho Feijao,2930439-Mac Nissin 75g Canja Galinha,816370-Mac Nissin 80g Hot Calabresa,2947048-Mac Nissin 80g Lamen Carne Desfiada C/Pim,136077-Mac Nissin 85g Bacon,2875659-Mac Nissin 85g Camarao C/ Alho,133043-Mac Nissin 85g Carne,578860-Mac Nissin 85g Carne C/Tomate,4077695-Mac Nissin 85g Chico Bento Milho Na Manteiga,2813017-Mac Nissin 85g Costela,102369-Mac Nissin 85g Gal Caipira,4415221-Mac Nissin 85g Gal Caipira C/6 L+p-,4417399-Não Encontrado,102350-Mac Nissin 85g Galinha,102393-Mac Nissin 85g Monica Carne,102440-Mac Nissin 85g Monica Galinha,102407-Mac Nissin 85g Monica Tomate,2724421-Mac Nissin 85g Sabor Fgo Assado C/Limao,775304-Mac Nissin 87g Yakissoba Trad,525200-Mac Nissin 88g Crem Frango,444715-Mac Nissin 88g Crem Picanha,2857790-Mac Nissin 88g Cremoso Molho De Queijo,771406-Mac Renata 500g Ovos Sem Ave Maria,215775-Mac Renata 500g Ovos Sem Espag 8,2368155-Mac Renata 500g Ovos Sem Fidelinho 10,512168-Mac Renata 500g Ovos Sem Furadinho 5,998052-Mac Renata 500g Ovos Sem Linguine,219037-Mac Renata 500g Ovos Sem Padre Nosso,215783-Mac Renata 500g Ovos Sem Parafuso,389420-Mac Renata 500g Ovos Sem Pena,3933881-Maionese Hellmann's 800g Doypack Sachet,2104334-Molho Tom Heinz 300g Sache Tradicional,3995119-Oleo Algodao Liza 900ml",
+      mensuracao: "6 dias"
+    },
+    campanha37: {
+      nome: "68867 - Email - TRADE MKT AMBEV - BDM 350ML PR MS 07022024",
+      filtro: "Clientes filiais PR/MS com filtro IdCsdmfilialpreferencial, Clientes com compras nos últimos 90 dias no Grupo 'Cerveja'",
+      abordado: 50000,
+      grupoControle: 8057,
+      produtos: "2890887 - Cerveja Brahma 350ml Duplo Malte Lata",
+      mensuracao: "8 dias"
+    },
+    campanha38: {
+      nome: "68868 - Email - TRADE MKT AMBEV - BDM 350ML SP 07022024",
+      filtro: "Clientes filiais SP com filtro IdCsdmfilialpreferencial,  Clientes com compras nos últimos 90 dias no Grupo 'Cerveja'",
+      abordado: 50000,
+      grupoControle: 8057,
+      produtos: "2890887 - Cerveja Brahma 350ml Duplo Malte Lata",
+      mensuracao: "8 dias"
+    },
+    campanha39: {
+      nome: "68869 - Email - TRADE MKT AMBEV - BRAHMA CHOPP 350ML PR MS 07022024",
+      filtro: "Clientes filiais PR/MS com filtro IdCsdmfilialpreferencial,  Clientes com compras nos últimos 90 dias no Grupo 'Cerveja'",
+      abordado: 50000,
+      grupoControle: 8057,
+      produtos: "306550	- Cerveja Brahma 350ml Lata",
+      mensuracao: "8 dias"
+    },
+    campanha40: {
+      nome: "68870 - Email - TRADE MKT AMBEV - BRAHMA CHOPP 350ML SP 07022024",
+      filtro: "Clientes filiais SP com filtro IdCsdmfilialpreferencial,  Clientes com compras nos últimos 90 dias no Grupo 'Cerveja'",
+      abordado: 50000,
+      grupoControle: 8057,
+      produtos: "306550	- Cerveja Brahma 350ml Lata",
+      mensuracao: "8 dias"
+    },
+    campanha39: {
+      nome: "68869 - Email - TRADE MKT AMBEV - BRAHMA CHOPP 350ML PR MS 07022024",
+      filtro: "Clientes filiais PR/MS com filtro IdCsdmfilialpreferencial,  Clientes com compras nos últimos 90 dias no Grupo 'Cerveja'",
+      abordado: 50000,
+      grupoControle: 8057,
+      produtos: "306550	- Cerveja Brahma 350ml Lata",
+      mensuracao: "8 dias"
+    },
+    campanha40: {
+      nome: "68870 - Email - TRADE MKT AMBEV - BRAHMA CHOPP 350ML SP 07022024",
+      filtro: "Clientes filiais SP com filtro IdCsdmfilialpreferencial,  Clientes com compras nos últimos 90 dias no Grupo 'Cerveja'",
+      abordado: 50000,
+      grupoControle: 8057,
+      produtos: "306550	- Cerveja Brahma 350ml Lata",
+      mensuracao: "8 dias"
+    },
+    campanha41: {
+      nome: "68871 - Email - TRADE MKT AMBEV - BEATS TROPICAL PR MS 07022024",
+      filtro: "Clientes filiais PR/MS com filtro IdCsdmfilialpreferencial,  Clientes com compras nos últimos 90 dias no Grupo 'Aperitivos e demais Destilados'",
+      abordado: 50000,
+      grupoControle: 8057,
+      produtos: "4422627 - Bebida Beats 269ml Tropical Long Neck,4422635 - Bebida Beats 269ml Tropical Lata",
+      mensuracao: "8 dias"
+    },
+    campanha42: {
+      nome: "68872 - Email - TRADE MKT AMBEV - BEATS TROPICAL SP 07022024",
+      filtro: "Clientes filiais SP com filtro IdCsdmfilialpreferencial,  Clientes com compras nos últimos 90 dias no Grupo 'Aperitivos e demais Destilados'",
+      abordado: 50000,
+      grupoControle: 8057,
+      produtos: "4422627 - Bebida Beats 269ml Tropical Long Neck,4422635 - Bebida Beats 269ml Tropical Lata",
+      mensuracao: "8 dias"
+    },
     // Adicione mais campanhas conforme necessário
   };
 
