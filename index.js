@@ -351,6 +351,86 @@ const dadosCampanhas = {
       produtos: "4422627 - Bebida Beats 269ml Tropical Long Neck,4422635 - Bebida Beats 269ml Tropical Lata",
       mensuracao: "8 dias"
     },
+    campanha43: {
+      nome: "68858 - E-mail TQV 06022024",
+      filtro: "Clientes todas filiais com filtro IdCsdmfilialpreferencial,  Clientes propensos Alto e Médio no departamento 'FLV'",
+      abordado: 158712,
+      grupoControle: 9026,
+      produtos: "387312-Ovo Galinha Branco Grande C/20,117250-Limao Taiti Kg,116955-Batata Extra Kg,130400-Cenoura Kg,1011006-Ovo Galinha Branco Grande C/30 Bandejao,117668-Abobora Italia Kg,116866-Melancia Inteira Kg,117870-Mamao Formosa Especial Kg,117870-Mamao Formosa Especial Kg",
+      mensuracao: "1 dia"
+    },
+    campanha44: {
+      nome: "68894 - SMS - Campanha Ofertas Limpeza - H&B Disp 2 10022024",
+      filtro: "Clientes todas filiais com filtro IdCsdmfilialpreferencial,  Clientes propensos Alto e Médio no SubGrupo 'Lava Louças Liquido - Lava Roupas Pó, Pepal Higienico Folha Dupla e Tintuca Cabelo s/Amonia'",
+      abordado: 40000,
+      grupoControle: 7745,
+      produtos: "2946742-Lava Roupa Omo 2,2kg Sanitiza/Higieniza,3947980-Papel Hig Benev L12p11 Fd 30m Neutro,2770032-Lava Louca De Vida 500ml Neutro,4428021-Tintura Cor & Ton",
+      mensuracao: "1 dia"
+    },
+    campanha45: {
+      nome: "68893 - SMS - Campanha Ofertas Limpeza - H&B Disp 1 09022024",
+      filtro: "Clientes todas filiais com filtro IdCsdmfilialpreferencial,  Clientes propensos Alto e Médio no SubGrupo 'Lava Louças Liquido - Lava Roupas Pó, Pepal Higienico Folha Dupla e Tintuca Cabelo s/Amonia'",
+      abordado: 40000,
+      grupoControle: 7745,
+      produtos: "2946742-Lava Roupa Omo 2,2kg Sanitiza/Higieniza,3947980-Papel Hig Benev L12p11 Fd 30m Neutro,2770032-Lava Louca De Vida 500ml Neutro,4428021-Tintura Cor & Ton",
+      mensuracao: "2 dias"
+    },
+    campanha46: {
+      nome: "68895 - Push - Campanha Ofertas Limpeza - H&B Disp 1 09022024",
+      filtro: "Clientes todas filiais com filtro IdCsdmfilialpreferencial,  Clientes propensos Alto e Médio no SubGrupo 'Lava Louças Liquido - Lava Roupas Pó, Pepal Higienico Folha Dupla e Tintuca Cabelo s/Amonia'",
+      abordado: 41149,
+      grupoControle: 8035,
+      produtos: "2946742-Lava Roupa Omo 2,2kg Sanitiza/Higieniza,3947980-Papel Hig Benev L12p11 Fd 30m Neutro,2770032-Lava Louca De Vida 500ml Neutro,4428021-Tintura Cor & Ton",
+      mensuracao: "2 dias"
+    },
+    campanha47: {
+      nome: "68896 - Push - Campanha Ofertas Limpeza - H&B Disp 2 10022024",
+      filtro: "Clientes todas filiais com filtro IdCsdmfilialpreferencial,  Clientes propensos Alto e Médio no SubGrupo 'Lava Louças Liquido - Lava Roupas Pó, Pepal Higienico Folha Dupla e Tintuca Cabelo s/Amonia'",
+      abordado: 41149,
+      grupoControle: 8035,
+      produtos: "2946742-Lava Roupa Omo 2,2kg Sanitiza/Higieniza,3947980-Papel Hig Benev L12p11 Fd 30m Neutro,2770032-Lava Louca De Vida 500ml Neutro,4428021-Tintura Cor & Ton",
+      mensuracao: "2 dias"
+    },
+    campanha48: {
+      nome: "68897 - Push - Campanha Ofertas Limpeza - H&B Disp 3 11022024",
+      filtro: "Clientes todas filiais com filtro IdCsdmfilialpreferencial,  Clientes propensos Alto e Médio no SubGrupo 'Lava Louças Liquido - Lava Roupas Pó, Pepal Higienico Folha Dupla e Tintuca Cabelo s/Amonia'",
+      abordado: 41149,
+      grupoControle: 8035,
+      produtos: "2946742-Lava Roupa Omo 2,2kg Sanitiza/Higieniza,3947980-Papel Hig Benev L12p11 Fd 30m Neutro,2770032-Lava Louca De Vida 500ml Neutro,4428021-Tintura Cor & Ton",
+      mensuracao: "2 dias"
+    },
+    campanha49: {
+      nome: "68883 - Email - Jornada Inativos Primeira Semana 08022024",
+      filtro: "Base Externa com faixa de Inatividade",
+      abordado: 84992,
+      grupoControle: 'Apropriação',
+      produtos: "2753561-Creme Leite Gloria 200g Tp,165646-Oleo Soja Cocamar 900ml Pet,2837587-Refr Po Tang 18g Uva Intensa,1587285-Refr Po Tang 18g Uva,1587277-Refr Po Tang 18g Tangerina,1587250-Refr Po Tang 18g Morango,1587307-Refr Po Tang 18g Maracuja,1587293-Refr Po Tang 18g Manga,1587196-Refr Po Tang 18g Limao,1587188-Refr Po Tang 18g Laranja/Mamao,2795140-Refr Po Tang 18g Laranja Docinha,1587170-Refr Po Tang 18g Laranja,4079795-Refr Po Tang 18g Guarana,2811405-Refr Po Tang 18g Goiaba,1587218-Refr Po Tang 18g Abacaxi,2022249-Biscoito Bauducco 140g Wafer Triplo,2022060-Biscoito Bauducco 140g Wafer Nozes,2022230-Biscoito Bauducco 140g Wafer Morango,2022044-Biscoito Bauducco 140g Wafer Chocolate,2022052-Biscoito Bauducco 140g Wafer Avela,406740-Lava Louca Ype 500ml Neutro,331635-Lava Louca Ype 500ml Maca,421200-Lava Louca Ype 500ml Limao,4079728-Lava Louca Ype 500ml Green,492442-Lava Louca Ype 500ml Coco,832286-Lava Louca Ype 500ml Clear Care/Guarana,331660-Lava Louca Ype 500ml Clear,2822741-Lava Louca Ype 500ml Capim Limao,3983374-Lava Louca Ype 500ml Antibac,3983374-Lava Louca Ype 500ml Antibac",
+      mensuracao: "7 dias"
+    },
+    campanha50: {
+      nome: "68884 - Push - Jornada Inativos Primeira Semana 08022024",
+      filtro: "Base Externa com faixa de Inatividade",
+      abordado: 41149,
+      grupoControle: 'Apropriação',
+      produtos: "2753561-Creme Leite Gloria 200g Tp,165646-Oleo Soja Cocamar 900ml Pet,2837587-Refr Po Tang 18g Uva Intensa,1587285-Refr Po Tang 18g Uva,1587277-Refr Po Tang 18g Tangerina,1587250-Refr Po Tang 18g Morango,1587307-Refr Po Tang 18g Maracuja,1587293-Refr Po Tang 18g Manga,1587196-Refr Po Tang 18g Limao,1587188-Refr Po Tang 18g Laranja/Mamao,2795140-Refr Po Tang 18g Laranja Docinha,1587170-Refr Po Tang 18g Laranja,4079795-Refr Po Tang 18g Guarana,2811405-Refr Po Tang 18g Goiaba,1587218-Refr Po Tang 18g Abacaxi,2022249-Biscoito Bauducco 140g Wafer Triplo,2022060-Biscoito Bauducco 140g Wafer Nozes,2022230-Biscoito Bauducco 140g Wafer Morango,2022044-Biscoito Bauducco 140g Wafer Chocolate,2022052-Biscoito Bauducco 140g Wafer Avela,406740-Lava Louca Ype 500ml Neutro,331635-Lava Louca Ype 500ml Maca,421200-Lava Louca Ype 500ml Limao,4079728-Lava Louca Ype 500ml Green,492442-Lava Louca Ype 500ml Coco,832286-Lava Louca Ype 500ml Clear Care/Guarana,331660-Lava Louca Ype 500ml Clear,2822741-Lava Louca Ype 500ml Capim Limao,3983374-Lava Louca Ype 500ml Antibac,3983374-Lava Louca Ype 500ml Antibac",
+      mensuracao: "7 dias"
+    },
+    campanha51: {
+      nome: "68891 - Custom Audience - Jornada Inativos Primeira Semana 09022024",
+      filtro: "Base Externa com faixa de Inatividade",
+      abordado: 98000,
+      grupoControle: 'Apropriação',
+      produtos: "2753561-Creme Leite Gloria 200g Tp,165646-Oleo Soja Cocamar 900ml Pet,2837587-Refr Po Tang 18g Uva Intensa,1587285-Refr Po Tang 18g Uva,1587277-Refr Po Tang 18g Tangerina,1587250-Refr Po Tang 18g Morango,1587307-Refr Po Tang 18g Maracuja,1587293-Refr Po Tang 18g Manga,1587196-Refr Po Tang 18g Limao,1587188-Refr Po Tang 18g Laranja/Mamao,2795140-Refr Po Tang 18g Laranja Docinha,1587170-Refr Po Tang 18g Laranja,4079795-Refr Po Tang 18g Guarana,2811405-Refr Po Tang 18g Goiaba,1587218-Refr Po Tang 18g Abacaxi,2022249-Biscoito Bauducco 140g Wafer Triplo,2022060-Biscoito Bauducco 140g Wafer Nozes,2022230-Biscoito Bauducco 140g Wafer Morango,2022044-Biscoito Bauducco 140g Wafer Chocolate,2022052-Biscoito Bauducco 140g Wafer Avela,406740-Lava Louca Ype 500ml Neutro,331635-Lava Louca Ype 500ml Maca,421200-Lava Louca Ype 500ml Limao,4079728-Lava Louca Ype 500ml Green,492442-Lava Louca Ype 500ml Coco,832286-Lava Louca Ype 500ml Clear Care/Guarana,331660-Lava Louca Ype 500ml Clear,2822741-Lava Louca Ype 500ml Capim Limao,3983374-Lava Louca Ype 500ml Antibac,3983374-Lava Louca Ype 500ml Antibac",
+      mensuracao: "6 dias"
+    },
+    campanha52: {
+      nome: "68904 - SMS - Jornada Inativos Primeira Semana 12022024",
+      filtro: "Base Externa com faixa de Inatividade",
+      abordado: 71148,
+      grupoControle: 'Apropriação',
+      produtos: "2753561-Creme Leite Gloria 200g Tp,165646-Oleo Soja Cocamar 900ml Pet,2837587-Refr Po Tang 18g Uva Intensa,1587285-Refr Po Tang 18g Uva,1587277-Refr Po Tang 18g Tangerina,1587250-Refr Po Tang 18g Morango,1587307-Refr Po Tang 18g Maracuja,1587293-Refr Po Tang 18g Manga,1587196-Refr Po Tang 18g Limao,1587188-Refr Po Tang 18g Laranja/Mamao,2795140-Refr Po Tang 18g Laranja Docinha,1587170-Refr Po Tang 18g Laranja,4079795-Refr Po Tang 18g Guarana,2811405-Refr Po Tang 18g Goiaba,1587218-Refr Po Tang 18g Abacaxi,2022249-Biscoito Bauducco 140g Wafer Triplo,2022060-Biscoito Bauducco 140g Wafer Nozes,2022230-Biscoito Bauducco 140g Wafer Morango,2022044-Biscoito Bauducco 140g Wafer Chocolate,2022052-Biscoito Bauducco 140g Wafer Avela,406740-Lava Louca Ype 500ml Neutro,331635-Lava Louca Ype 500ml Maca,421200-Lava Louca Ype 500ml Limao,4079728-Lava Louca Ype 500ml Green,492442-Lava Louca Ype 500ml Coco,832286-Lava Louca Ype 500ml Clear Care/Guarana,331660-Lava Louca Ype 500ml Clear,2822741-Lava Louca Ype 500ml Capim Limao,3983374-Lava Louca Ype 500ml Antibac,3983374-Lava Louca Ype 500ml Antibac",
+      mensuracao: "2 dias"
+    },
     // Adicione mais campanhas conforme necessário
   };
 
